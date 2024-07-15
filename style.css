@@ -1,0 +1,21 @@
+.main{
+    background-image: url('https://images.pexels.com/photos/1112080/pexels-photo-1112080.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+.st-emotion-cache-1n76uvr{
+    background-color: rgba(0,0,0,.3);
+    backdrop-filter: blur(20px);
+    border-radius: 10px;
+    padding: 20px;
+    width: 105%;
+}
+
+input[type="text"]{
+    width: 90%;
+}
+
+
+
